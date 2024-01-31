@@ -1,0 +1,21 @@
+
+
+/* Headers.scss */
+
+/* Add your custom styles here */
+header {
+    /* Your styles for the header element */
+  }
+  
+  /* Example: Add a custom style for the navigation items */
+  .MDBNavbarLink {
+    color: #3366cc; /* Customize the color */
+  }
+  
+  /* Example: Style the active navigation item differently */
+  .MDBNavbarItem.active .MDBNavbarLink {
+    font-weight: bold; /* Add your styles for the active item */
+  }
+  
+  /* Add more styles as needed */
+  
